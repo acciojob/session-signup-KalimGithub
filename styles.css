@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.form{
+	background-color:#f8f9fa;
+	border:1px solid #ccc;
+	border-radius:4px;
+	padding:2rem;
+	width:300px;
+}
+input{
+	width:100%;
+	padding:0.5rem;
+	border-radius:4px;
+	margin-bottom:1rem;
+	
+}
